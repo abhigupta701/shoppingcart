@@ -1,0 +1,5 @@
+1 iphone_7 phone 40000
+2 samsung_m20 phone 20000
+3 smart_watch watch 15000
+4 laptop laptop 600004 smartlamp light 2500
+3 dell laptop 50000
